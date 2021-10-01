@@ -23,3 +23,11 @@
 - Bio: Student at NIT Jalandhar.
 - GitHub: [Uttam Kumar Sharma](https://github.com/uttams237)
 
+
+#### Name: Vishal J
+- Place: Koduru, Andhra Pradesh
+- Bio: Student.
+- GitHub: [Vishal J](https://github.com/varhacks)
+
+
+
