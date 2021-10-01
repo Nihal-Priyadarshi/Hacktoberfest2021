@@ -101,4 +101,7 @@
 - Bio: An Indian trying to aprreciate life and code along the way
 - GitHub: [Yuvraj Chaudhry](https://github.com/yuvrajchaudhry)
 
-
+#### Name: Aashish
+- Place: Punjab, India
+- Bio: Currently pursuing Bachelor's in Computer Science & Engineering
+- GitHub: [Aashish](https://github.com/BrAwLeR001)
