@@ -26,5 +26,5 @@ Thapar Institute of Engineering and Technology
 
 ### Email ID
 
-- th12maxtroops@gmail.com
+- aashishkumar19042002@gmail.com
 
