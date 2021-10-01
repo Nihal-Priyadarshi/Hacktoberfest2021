@@ -114,4 +114,10 @@
 - Bio: I'm an Engineering student.
 - GitHub: [tb-rules10](https://github.com/tb-rules10)
 
+#### Name: Tejsingh Dhaosriya
+
+- Place: Indore, Madhya Pradesh, India
+- Bio: I'm a Developer.
+- GitHub: [Tejsingh Dhaosriya](https://github.com/TejsinghDhaosriya)
+
 
