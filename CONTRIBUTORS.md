@@ -23,3 +23,7 @@
 - Bio: Student at NIT Jalandhar.
 - GitHub: [Uttam Kumar Sharma](https://github.com/uttams237)
 
+#### Name: Vibhuti Jain
+- Place: Mathura, UP, India
+- Bio: Working Professional
+- GitHub: [Vibhuti Jain](https://github.com/vibhuvj27)
