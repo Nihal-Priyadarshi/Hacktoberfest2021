@@ -23,3 +23,7 @@
 - Bio: Student at NIT Jalandhar.
 - GitHub: [Uttam Kumar Sharma](https://github.com/uttams237)
 
+#### Name: Sonu Kumar Kushwaha
+- Place: Patna, India
+- Bio : Open Sourcerer | Admin @singlebucks
+- Github: [Sonu Kumar Kushwaha](https://github.com/flyingsonu122)
