@@ -133,6 +133,10 @@
 - GitHub: [Frosty Thunderer](https://github.com/Frosty-Thunderer)
 
 
+#### Name: Subhamay Paul
 
+- Place: Kolkata, India
+- Bio: I'm a Developer.
+- GitHub: [Subho-codegeek](https://github.com/Subho-codegeek)
 
 
