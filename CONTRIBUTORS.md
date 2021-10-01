@@ -25,12 +25,26 @@
 - GitHub: [Uttam Kumar Sharma](https://github.com/uttams237)
 
 
+#### Name: Sonu Kumar Kushwaha
+- Place: Patna, India
+- Bio : Open Sourcerer | Admin @singlebucks
+- Github: [Sonu Kumar Kushwaha](https://github.com/flyingsonu122)
+
+
 #### Name: Vishal J
-- Place: Koduru, Andhra Pradesh, India
-- Bio: I'm a student.
+- Place: Koduru, Andhra Pradesh
+- Bio: Student.
 - GitHub: [Vishal J](https://github.com/varhacks)
 
 #### Name: Aman Dutt
 - Place: Patna, Bihar, India
 - Bio: Noob Coder.
 - GitHub: [Aman Dutt](https://github.com/adgamerx)
+
+
+#### Name: Yuvraj Singh Chaudhry
+- Place: Delhi, New Delhi, India
+- Bio: An Indian trying to aprreciate life and code along the way
+- GitHub: [Yuvraj Chaudhry](https://github.com/yuvrajchaudhry)
+
+
