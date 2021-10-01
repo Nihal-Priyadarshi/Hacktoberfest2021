@@ -18,3 +18,8 @@
 - Bio: I'm a student.
 - GitHub: [Ankur Nagila](https://github.com/ANkurNagila)
 
+#### Name: Uttam Kumar Sharma
+- Place: Gorakhpur, UP, India
+- Bio: Student at NIT Jalandhar.
+- GitHub: [Uttam Kumar Sharma](https://github.com/uttams237)
+
