@@ -23,3 +23,7 @@
 - Bio: Student at NIT Jalandhar.
 - GitHub: [Uttam Kumar Sharma](https://github.com/uttams237)
 
+#### Name: Rushi Patel
+- Place: Surat, Gujarat, India
+- Bio: College student of SRM , Chennai.
+- GitHub: [Rushi Patel](https://github.com/Developer-R-7)
