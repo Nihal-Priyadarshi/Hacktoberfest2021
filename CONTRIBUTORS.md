@@ -24,14 +24,16 @@
 - Bio: Student at NIT Jalandhar.
 - GitHub: [Uttam Kumar Sharma](https://github.com/uttams237)
 
+
+#### Name: Vishal J
+- Place: Koduru, Andhra Pradesh
+- Bio: Student.
+- GitHub: [Vishal J](https://github.com/varhacks)
+
+
 #### Name: Yuvraj Singh Chaudhry
 - Place: Delhi, New Delhi, India
 - Bio: An Indian trying to aprreciate life and code along the way
 - GitHub: [Yuvraj Chaudhry](https://github.com/yuvrajchaudhry)
 
-
-#### Name: Vishal J
-- Place: Koduru, Andhra Pradesh, India
-- Bio: I'm a student.
-- GitHub: [Vishal J](https://github.com/varhacks)
 
