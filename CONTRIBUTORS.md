@@ -23,3 +23,7 @@
 - Bio: Student at NIT Jalandhar.
 - GitHub: [Uttam Kumar Sharma](https://github.com/uttams237)
 
+#### Name: Kamal Tulsiyani
+- Place: Morbi, Gujarat, India
+- Bio: Student
+- GitHub: [Kamal Tulsiyani](https://github.com/kamalrt11)
