@@ -30,6 +30,30 @@
 - GitHub: [Uttam Kumar Sharma](https://github.com/uttams237)
 
 
+#### Name: Mansi V Jain
+- Place: Bangalore, Karnataka , India
+- Bio: I am currently pursuing my Bachelor of Engineering at BMS College Of Engineering , Bangalore.
+- GitHub: [Mansi V Jain](https://github.com/Mansivjain00)
+
+
+#### Name: Vibhuti Jain
+- Place: Mathura, UP, India
+- Bio: Working Professional
+- GitHub: [Vibhuti Jain](https://github.com/vibhuvj27)
+
+
+#### Name: Rachel Johnson
+- Place: Sydney, Australia
+- Bio: Web Developer, Graphic Designer
+- GitHub: [rachelktyjohnson](https://github.com/rachelktyjohnson)
+
+
+#### Name: Munish Kumar
+- Place: Punjab, India
+- Bio: Student at PEC, Chandigarh
+- GitHub: [Munish Kumar](https://github.com/munish0838)
+
+
 #### Name: Rushi Patel
 - Place: Surat, Gujarat, India
 - Bio: College student of SRM , Chennai.
@@ -76,4 +100,5 @@
 - Place: Delhi, New Delhi, India
 - Bio: An Indian trying to aprreciate life and code along the way
 - GitHub: [Yuvraj Chaudhry](https://github.com/yuvrajchaudhry)
+
 
