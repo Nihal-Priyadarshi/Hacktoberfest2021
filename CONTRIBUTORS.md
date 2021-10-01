@@ -24,6 +24,12 @@
 - Bio: Student at NIT Jalandhar.
 - GitHub: [Uttam Kumar Sharma](https://github.com/uttams237)
 
+#### Name: Kamal Tulsiyani
+- Place: Morbi, Gujarat, India
+- Bio: Student
+- GitHub: [Kamal Tulsiyani](https://github.com/kamalrt11)
+
+
 #### Name: Sai Prachodhan Devulapalli
 - Place: Warangal, Telangana
 - Bio: I'm a student in Electrical Engineering branch.
