@@ -30,3 +30,7 @@
 - Bio: I'm a student.
 - GitHub: [Vishal J](https://github.com/varhacks)
 
+#### Name: Aman Dutt
+- Place: Patna, Bihar, India
+- Bio: Noob Coder.
+- GitHub: [Aman Dutt](https://github.com/adgamerx)
