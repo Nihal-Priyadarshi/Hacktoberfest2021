@@ -96,3 +96,10 @@
 - GitHub: [Yuvraj Chaudhry](https://github.com/yuvrajchaudhry)
 
 
+#### Name: Yash Jain
+- Place: Varanasi, Uttar Pradesh, India
+- Bio: Student, Marking my presence in the open source world. 
+- GitHub: [Yash Jain](https://github.com/yashjain-99)
+
+
+
