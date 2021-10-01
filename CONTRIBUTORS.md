@@ -18,6 +18,7 @@
 - Bio: I'm a student.
 - GitHub: [Ankur Nagila](https://github.com/ANkurNagila)
 
+
 #### Name: Uttam Kumar Sharma
 - Place: Gorakhpur, UP, India
 - Bio: Student at NIT Jalandhar.
@@ -28,4 +29,9 @@
 - Bio: An Indian trying to aprreciate life and code along the way
 - GitHub: [Yuvraj Chaudhry](https://github.com/yuvrajchaudhry)
 
+
+#### Name: Vishal J
+- Place: Koduru, Andhra Pradesh, India
+- Bio: I'm a student.
+- GitHub: [Vishal J](https://github.com/varhacks)
 
