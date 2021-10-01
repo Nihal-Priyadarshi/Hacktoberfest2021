@@ -1,4 +1,4 @@
-# Aman Dutt
+# Tanishq Bhatt
 
 ### Location
 
