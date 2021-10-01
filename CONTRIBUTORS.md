@@ -18,6 +18,7 @@
 - Bio: I'm a student.
 - GitHub: [Ankur Nagila](https://github.com/ANkurNagila)
 
+
 #### Name: Uttam Kumar Sharma
 - Place: Gorakhpur, UP, India
 - Bio: Student at NIT Jalandhar.
@@ -27,4 +28,28 @@
 - Place: Warangal, Telangana
 - Bio: I'm a student in Electrical Engineering branch.
 - GitHub: [Sai Prachodhan Devulapalli](https://github.com/devulapallisai)
+
+
+#### Name: Sonu Kumar Kushwaha
+- Place: Patna, India
+- Bio : Open Sourcerer | Admin @singlebucks
+- Github: [Sonu Kumar Kushwaha](https://github.com/flyingsonu122)
+
+
+#### Name: Vishal J
+- Place: Koduru, Andhra Pradesh
+- Bio: Student.
+- GitHub: [Vishal J](https://github.com/varhacks)
+
+#### Name: Aman Dutt
+- Place: Patna, Bihar, India
+- Bio: Noob Coder.
+- GitHub: [Aman Dutt](https://github.com/adgamerx)
+
+
+#### Name: Yuvraj Singh Chaudhry
+- Place: Delhi, New Delhi, India
+- Bio: An Indian trying to aprreciate life and code along the way
+- GitHub: [Yuvraj Chaudhry](https://github.com/yuvrajchaudhry)
+
 
