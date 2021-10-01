@@ -90,3 +90,10 @@
 - GitHub: [Yuvraj Chaudhry](https://github.com/yuvrajchaudhry)
 
 
+#### Name: Tanishq Bhatt
+
+- Place: India
+- Bio: I'm an Engineering student.
+- GitHub: [tb-rules10](https://github.com/tb-rules10)
+
+
