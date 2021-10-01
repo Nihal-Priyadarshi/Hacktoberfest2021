@@ -24,6 +24,11 @@
 - Bio: Student at NIT Jalandhar.
 - GitHub: [Uttam Kumar Sharma](https://github.com/uttams237)
 
+#### Name: Sai Prachodhan Devulapalli
+- Place: Warangal, Telangana
+- Bio: I'm a student in Electrical Engineering branch.
+- GitHub: [Sai Prachodhan Devulapalli](https://github.com/devulapallisai)
+
 
 #### Name: Sonu Kumar Kushwaha
 - Place: Patna, India
