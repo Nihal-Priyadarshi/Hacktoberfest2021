@@ -102,3 +102,9 @@
 - GitHub: [Yuvraj Chaudhry](https://github.com/yuvrajchaudhry)
 
 
+#### Name: Benedek Kis
+- Place: Budapest, Hungary
+- Bio: Student, learning computer science.
+- GitHub: [Benedek Kis](https://github.com/donerkiki)
+
+
