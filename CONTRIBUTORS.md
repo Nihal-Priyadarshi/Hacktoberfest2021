@@ -30,6 +30,12 @@
 - GitHub: [Uttam Kumar Sharma](https://github.com/uttams237)
 
 
+#### Name: Munish Kumar
+- Place: Punjab, India
+- Bio: Student at PEC, Chandigarh
+- GitHub: [Munish Kumar](https://github.com/munish0838)
+
+
 #### Name: Rushi Patel
 - Place: Surat, Gujarat, India
 - Bio: College student of SRM , Chennai.
@@ -76,4 +82,5 @@
 - Place: Delhi, New Delhi, India
 - Bio: An Indian trying to aprreciate life and code along the way
 - GitHub: [Yuvraj Chaudhry](https://github.com/yuvrajchaudhry)
+
 
