@@ -30,6 +30,12 @@
 - GitHub: [Uttam Kumar Sharma](https://github.com/uttams237)
 
 
+#### Name: Mansi V Jain
+- Place: Bangalore, Karnataka , India
+- Bio: I am currently pursuing my Bachelor of Engineering at BMS College Of Engineering , Bangalore.
+- GitHub: [Mansi V Jain](https://github.com/Mansivjain00)
+
+
 #### Name: Vibhuti Jain
 - Place: Mathura, UP, India
 - Bio: Working Professional
