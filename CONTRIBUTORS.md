@@ -23,3 +23,8 @@
 - Bio: Student at NIT Jalandhar.
 - GitHub: [Uttam Kumar Sharma](https://github.com/uttams237)
 
+#### Name: Rachel Johnson
+- Place: Sydney, Australia
+- Bio: Web Developer, Graphic Designer
+- GitHub: [rachelktyjohnson](https://github.com/rachelktyjohnson)
+
