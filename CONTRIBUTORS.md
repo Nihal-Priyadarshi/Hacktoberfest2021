@@ -23,3 +23,9 @@
 - Bio: Student at NIT Jalandhar.
 - GitHub: [Uttam Kumar Sharma](https://github.com/uttams237)
 
+#### Name: Yuvraj Singh Chaudhry
+- Place: Delhi, New Delhi, India
+- Bio: An Indian trying to aprreciate life and code along the way
+- GitHub: [Yuvraj Chaudhry](https://github.com/yuvrajchaudhry)
+
+
