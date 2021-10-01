@@ -30,6 +30,12 @@
 - GitHub: [Uttam Kumar Sharma](https://github.com/uttams237)
 
 
+#### Name: Vibhuti Jain
+- Place: Mathura, UP, India
+- Bio: Working Professional
+- GitHub: [Vibhuti Jain](https://github.com/vibhuvj27)
+
+
 #### Name: Rachel Johnson
 - Place: Sydney, Australia
 - Bio: Web Developer, Graphic Designer
