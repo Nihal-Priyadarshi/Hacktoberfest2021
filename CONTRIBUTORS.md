@@ -23,3 +23,8 @@
 - Bio: Student at NIT Jalandhar.
 - GitHub: [Uttam Kumar Sharma](https://github.com/uttams237)
 
+#### Name: Munish Kumar
+- Place: Punjab, India
+- Bio: Student at PEC, Chandigarh
+- GitHub: [Munish Kumar] (https://github.com/munish0838)
+
