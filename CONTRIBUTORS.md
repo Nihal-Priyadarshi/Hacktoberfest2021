@@ -18,3 +18,9 @@
 - Bio: I'm a student.
 - GitHub: [Ankur Nagila](https://github.com/ANkurNagila)
 
+
+#### Name: Vishal J
+- Place: Koduru, Andhra Pradesh, India
+- Bio: I'm a student.
+- GitHub: [Vishal J](https://github.com/varhacks)
+
