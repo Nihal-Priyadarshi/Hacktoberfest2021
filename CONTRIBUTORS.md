@@ -26,5 +26,5 @@
 #### Name: Munish Kumar
 - Place: Punjab, India
 - Bio: Student at PEC, Chandigarh
-- GitHub: [Munish Kumar] (https://github.com/munish0838)
+- GitHub: [Munish Kumar](https://github.com/munish0838)
 
