@@ -102,6 +102,12 @@
 - GitHub: [Yuvraj Chaudhry](https://github.com/yuvrajchaudhry)
 
 
+#### Name: Aashish
+- Place: Punjab, India
+- Bio: Currently pursuing Bachelor's in Computer Science & Engineering
+- GitHub: [Aashish](https://github.com/BrAwLeR001)
+
+
 #### Name: Tanishq Bhatt
 
 - Place: India
