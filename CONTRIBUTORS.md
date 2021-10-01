@@ -133,6 +133,11 @@
 - GitHub: [Frosty Thunderer](https://github.com/Frosty-Thunderer)
 
 
+#### Name: Antriksh Batra
 
+
+- Place: Sonipat,Haryana,India
+- Bio: I'm an Engineering Student.
+- GitHub: [AntrikshBatra](https://github.com/AntrikshBatra)
 
 
