@@ -30,6 +30,12 @@
 - GitHub: [Uttam Kumar Sharma](https://github.com/uttams237)
 
 
+#### Name: Rachel Johnson
+- Place: Sydney, Australia
+- Bio: Web Developer, Graphic Designer
+- GitHub: [rachelktyjohnson](https://github.com/rachelktyjohnson)
+
+
 #### Name: Munish Kumar
 - Place: Punjab, India
 - Bio: Student at PEC, Chandigarh
