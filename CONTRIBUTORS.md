@@ -36,6 +36,11 @@
 - Bio: Student.
 - GitHub: [Vishal J](https://github.com/varhacks)
 
+#### Name: Aman Dutt
+- Place: Patna, Bihar, India
+- Bio: Noob Coder.
+- GitHub: [Aman Dutt](https://github.com/adgamerx)
+
 
 #### Name: Yuvraj Singh Chaudhry
 - Place: Delhi, New Delhi, India
