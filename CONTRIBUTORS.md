@@ -121,3 +121,12 @@
 - GitHub: [Tejsingh Dhaosriya](https://github.com/TejsinghDhaosriya)
 
 
+#### Name: Dev raj patel
+
+- Place: Indore, Madhya Pradesh, India
+- Bio: I'm a Student.
+- GitHub: [Dev raj](https://github.com/devrajpatel1006)
+
+
+
+
