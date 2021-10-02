@@ -134,5 +134,10 @@
 
 
 
+#### Name: Anish Kumar Sinha
+
+- Place: Patna, Bihar, India
+- Bio: Student at LNMI Patna.
+- GitHub: [Anish Kumar Sinha](https://github.com/SinhaAnishKumar)
 
 
