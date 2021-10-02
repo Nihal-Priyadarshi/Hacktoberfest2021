@@ -141,6 +141,13 @@
 - GitHub: [Anish Kumar Sinha](https://github.com/SinhaAnishKumar)
 
 
+#### Name: Devnarayan Patel
+
+- Place: Raigarh, Chhattishgarh, India
+- Bio: B.Sc. Maths Student.
+- GitHub: [Devnarayan Patel](https://github.com/devnarayanp02)
+
+
 #### Name: Christy Thomas
 - Place: Pathanamthitta, Kerala, India
 - Bio: Currently pursuing BTech in Electronics & Communication
