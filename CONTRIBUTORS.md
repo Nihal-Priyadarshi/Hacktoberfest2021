@@ -154,6 +154,12 @@
 - GitHub: [Anish Kumar Sinha](https://github.com/SinhaAnishKumar)
 
 
+#### Name: Madhan M
+- Place: Bengaluru, India
+- Bio: CSE undergrad.
+- GitHub: [Madhan M](https://github.com/Capt-Madhan)
+
+
 #### Name: Suman Chandra
 - Place: Patna, Bihar, India
 - Bio: Student at NIT Patna.
@@ -196,6 +202,7 @@
 - GitHub: [Gagan Saha](https://github.com/sahagagan05)
 
 
+
 #### Name: Sukanti Patel
 - Place: Raigarh, Chhattishgarh, India
 - Bio: Bachelor of Commerce Student
@@ -206,4 +213,11 @@
 - Place: Chickballapur,Karnataka,India
 - Bio: B.E. in Computer Science Engineering Student
 - GitHub: [aniruddho-mitra](https://github.com/aniruddho-mitra/)
+
+
+#### Name: Dev Patel
+- Place: Bilaspur, Chhattisgarh, India
+- Bio: Bachelor of Science Student
+- GitHub: [Dev Patel](https://github.com/devnpatel)
+
 
