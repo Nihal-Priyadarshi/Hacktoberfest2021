@@ -262,7 +262,10 @@
 - GitHub: [mayankbhatt07141] (https://github.com/mayankbhatt07141)
 
 
-
+#### Name: Abijit chettri
+- Place: Sikkim, India
+- Bio: CSE Student.
+- GitHub: [Sidhanth_chettri22](https://github.com/Abijitchettri99)
 
 
 
