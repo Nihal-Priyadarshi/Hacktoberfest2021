@@ -201,5 +201,8 @@
 - Bio: Bachelor of Commerce Student
 - GitHub: [Sukanti Patel](https://github.com/sukantipatel)
 
-
+#### Name: Jyoti pandey
+- Place: Jhansi, UP, India
+- Bio: b.tech cse student
+- GitHub: [JYOTIP31]
 
