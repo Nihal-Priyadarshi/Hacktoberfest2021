@@ -143,6 +143,6 @@
 
 #### Name: Christy Thomas
 - Place: Pathanamthitta, Kerala, India
-- Bio: Who are you?
+- Bio: Currently pursuing BTech in Electronics & Communication
 - GitHub: [Christy538](https://github.com/Christy538)
 
