@@ -178,5 +178,8 @@
 - GitHub: [Christy538](https://github.com/Christy538)
 
 
-
+#### Name: Ram Patel
+- Place: Raigarh, Chhattishgarh, India
+- Bio: Bachelor of Arts Student
+- GitHub: [Ram Patel](https://github.com/Ramptl)
 
