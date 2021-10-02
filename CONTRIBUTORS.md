@@ -1,3 +1,9 @@
+#### Name: Siddharth Borman
+- Place : Guwahati, Assam, India
+-Bio : I'm a student.
+_ GitHub: [Siddharth Borman](https://github.com/PricelessBread)
+
+
 #### Name: Nihal Priyadarshi
 - Place: Patna, Bihar, India
 - Bio: I'm a student.
