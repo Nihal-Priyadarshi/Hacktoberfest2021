@@ -245,4 +245,7 @@
 - GitHub: [mauryahimanshu] (https://github.com/mauryahimanshu)
 
 
-
+#### Name: Shubhangi Dwivedi
+- Place: Ghazibad, Uttar Pradesh
+- Bio: B. Tech. Compter Science
+- GitHub: [Shubhangi Dwivedi](https://github.com/shubhangi-dwivedi)
