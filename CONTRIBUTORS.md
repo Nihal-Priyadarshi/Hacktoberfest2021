@@ -184,6 +184,12 @@
 - GitHub: [Ram Patel](https://github.com/Ramptl)
 
 
+#### Name: Anisha Agarwal
+- Place: Ghaziabad, India
+- Bio: BTech Computer Science
+- GitHub: [Anisha Agarwal](https://github.com/anisha16)
+
+
 #### Name: Gagan Saha
 - Place: Saria, Chhattishgarh, India
 - Bio: Bachelor of Mathematics Student
@@ -194,5 +200,6 @@
 - Place: Raigarh, Chhattishgarh, India
 - Bio: Bachelor of Commerce Student
 - GitHub: [Sukanti Patel](https://github.com/sukantipatel)
+
 
 
