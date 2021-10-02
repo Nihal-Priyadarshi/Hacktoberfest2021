@@ -239,3 +239,10 @@
 - GitHub: [Kaveesha Gallage](https://github.com/KaveeshaGallage)
 
 
+#### Name: Himanshu Maurya
+- Place: Varanasi, Uttar Pradesh, India
+- Bio: Bachelor in Computer Science and Engineering
+- GitHub: [mauryahimanshu] (https://github.com/mauryahimanshu)
+
+
+
