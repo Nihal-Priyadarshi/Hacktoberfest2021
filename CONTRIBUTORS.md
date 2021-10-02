@@ -101,4 +101,7 @@
 - Bio: An Indian trying to aprreciate life and code along the way
 - GitHub: [Yuvraj Chaudhry](https://github.com/yuvrajchaudhry)
 
-
+#### Name: Gym Pornpimol Kaewphiny
+- Place: Bangkok, Thailand
+- Bio: Data Analyst
+- GitHub: [Pornpimol Kaewphing](https://github.com/gympohnpimol)
