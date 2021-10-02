@@ -245,4 +245,10 @@
 - GitHub: [mauryahimanshu] (https://github.com/mauryahimanshu)
 
 
+#### Name: Tanay Dwivedi
+- Place: Kanpur, Uttar Pradesh, India
+- Academics: B.Tech in Computer Science and Engineering
+- GitHub: [Tanay-Dwivedi] (https://github.com/Tanay-Dwivedi)
+
+
 
