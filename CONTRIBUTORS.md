@@ -244,5 +244,10 @@
 - Bio: Bachelor in Computer Science and Engineering
 - GitHub: [mauryahimanshu] (https://github.com/mauryahimanshu)
 
+#### Name: Ankit Gupta
+- Place: New Delhi, Delhi, India
+- Bio: I'm a Developer and CSE 2018 Grad.
+- GitHub: [ankit-95](https://github.com/ankit-95)
+
 
 
