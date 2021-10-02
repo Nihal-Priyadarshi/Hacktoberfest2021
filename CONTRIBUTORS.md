@@ -1,33 +1,28 @@
 #### Name: Nihal Priyadarshi
-
 - Place: Patna, Bihar, India
 - Bio: I'm a student.
 - GitHub: [Nihal Priyadarshi](https://github.com/Nihal-Priyadarshi)
 
 
 #### Name: Jayant Goel
-
 - Place: Ghaziabad, UP, India
 - Bio: You Know Who I Am.
 - GitHub: [Jayant Goel](https://github.com/JayantGoel001)
 
 
 #### Name: Arif Cahya Prananda
-
 - Place: Pati, Java, Indonesia
 - Bio: Bachelor of Informatics Engineering from Dian Nuswantoro University.
 - GitHub: [Arif Cahya Prananda](https://github.com/boscahya)
 
 
 #### Name: Ankur Nagila
-
 - Place: Dwarahat, Almora, India
 - Bio: I'm a student.
 - GitHub: [Ankur Nagila](https://github.com/ANkurNagila)
 
 
 #### Name: Uttam Kumar Sharma
-
 - Place: Gorakhpur, UP, India
 - Bio: Student at NIT Jalandhar.
 - GitHub: [Uttam Kumar Sharma](https://github.com/uttams237)
@@ -64,7 +59,6 @@
 
 
 #### Name: Hasan Choiri
-
 - Place: Surabaya, Indonesia
 - Bio: I'm an Engineer.
 - Github: [Hasan Choiri](https://github.com/hasancho)
@@ -113,37 +107,76 @@
 
 
 #### Name: Tanishq Bhatt
-
 - Place: India
 - Bio: I'm an Engineering student.
 - GitHub: [tb-rules10](https://github.com/tb-rules10)
 
 
 #### Name: Tejsingh Dhaosriya
-
 - Place: Indore, Madhya Pradesh, India
 - Bio: I'm a Developer.
 - GitHub: [Tejsingh Dhaosriya](https://github.com/TejsinghDhaosriya)
 
 
-#### Name: Frosty Thunderer
+#### Name: Dev raj patel
+- Place: Indore, Madhya Pradesh, India
+- Bio: I'm a Student.
+- GitHub: [Dev raj](https://github.com/devrajpatel1006)
 
+
+#### Name: Frosty Thunderer
 - Place: The Earth.
 - Bio: I'm a Developer.
 - GitHub: [Frosty Thunderer](https://github.com/Frosty-Thunderer)
 
 
+#### Name: Antriksh Batra
+- Place: Sonipat,Haryana,India
+- Bio: I'm an Engineering Student.
+- GitHub: [AntrikshBatra](https://github.com/AntrikshBatra)
+
+
+#### Name: Sriram S
+- Place: India
+- Bio: CS undergrad
+- GitHub: [suburban-daredevil](https://github.com/suburban-daredevil)
+
+
+#### Name: Subhamay Paul
+- Place: Kolkata, India
+- Bio: I'm a Developer.
+- GitHub: [Subho-codegeek](https://github.com/Subho-codegeek)
+
 
 #### Name: Anish Kumar Sinha
-
 - Place: Patna, Bihar, India
 - Bio: Student at LNMI Patna.
 - GitHub: [Anish Kumar Sinha](https://github.com/SinhaAnishKumar)
 
 
-
 #### Name: Suman Chandra
-
 - Place: Patna, Bihar, India
 - Bio: Student at NIT Patna.
 - GitHub: [Suman Chandra](https://github.com/sumannitp)
+
+
+#### Name: Ajay Kumar
+- Place: Haryana, India
+- Bio: Freelance Programmer and Data Analyst
+- GitHub: [Ajay Kumar](https://github.com/Join2AJ)
+
+
+#### Name: Devnarayan Patel
+- Place: Raigarh, Chhattishgarh, India
+- Bio: B.Sc. Maths Student.
+- GitHub: [Devnarayan Patel](https://github.com/devnarayanp02)
+
+
+#### Name: Christy Thomas
+- Place: Pathanamthitta, Kerala, India
+- Bio: Currently pursuing BTech in Electronics & Communication
+- GitHub: [Christy538](https://github.com/Christy538)
+
+
+
+
