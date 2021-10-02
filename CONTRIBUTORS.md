@@ -183,3 +183,10 @@
 - Bio: Bachelor of Arts Student
 - GitHub: [Ram Patel](https://github.com/Ramptl)
 
+
+
+#### Name: Sukanti Patel
+- Place: Raigarh, Chhattishgarh, India
+- Bio: Bachelor of Commerce Student
+- GitHub: [Sukanti Patel](https://github.com/sukantipatel)
+
