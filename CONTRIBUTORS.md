@@ -126,6 +126,13 @@
 - GitHub: [Tejsingh Dhaosriya](https://github.com/TejsinghDhaosriya)
 
 
+#### Name: Dev raj patel
+
+- Place: Indore, Madhya Pradesh, India
+- Bio: I'm a Student.
+- GitHub: [Dev raj](https://github.com/devrajpatel1006)
+
+
 #### Name: Frosty Thunderer
 
 - Place: The Earth.
@@ -170,4 +177,5 @@
 - Place: Pathanamthitta, Kerala, India
 - Bio: Currently pursuing BTech in Electronics & Communication
 - GitHub: [Christy538](https://github.com/Christy538)
+
 
