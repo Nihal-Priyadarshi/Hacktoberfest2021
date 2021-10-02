@@ -184,9 +184,15 @@
 - GitHub: [Ram Patel](https://github.com/Ramptl)
 
 
+#### Name: Gagan Saha
+- Place: Saria, Chhattishgarh, India
+- Bio: Bachelor of Mathematics Student
+- GitHub: [Gagan Saha](https://github.com/sahagagan05)
+
 
 #### Name: Sukanti Patel
 - Place: Raigarh, Chhattishgarh, India
 - Bio: Bachelor of Commerce Student
 - GitHub: [Sukanti Patel](https://github.com/sukantipatel)
+
 
