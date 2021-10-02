@@ -183,3 +183,8 @@
 - Bio: Bachelor of Arts Student
 - GitHub: [Ram Patel](https://github.com/Ramptl)
 
+#### Name: Anisha Agarwal
+- Place: Ghaziabad, India
+- Bio: BTech Computer Science
+- GitHub: [Anisha Agarwal](https://github.com/anisha16)
+
