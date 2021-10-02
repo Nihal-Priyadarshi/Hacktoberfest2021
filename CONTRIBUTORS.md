@@ -196,10 +196,16 @@
 - GitHub: [Gagan Saha](https://github.com/sahagagan05)
 
 
+
 #### Name: Sukanti Patel
 - Place: Raigarh, Chhattishgarh, India
 - Bio: Bachelor of Commerce Student
 - GitHub: [Sukanti Patel](https://github.com/sukantipatel)
 
 
+
+#### Name: Dev Patel
+- Place: Bilaspur, Chhattisgarh, India
+- Bio: Bachelor of Science Student
+- GitHub: [Dev Patel](https://github.com/devnpatel)
 
