@@ -245,4 +245,10 @@
 - GitHub: [mauryahimanshu] (https://github.com/mauryahimanshu)
 
 
+#### Name: Akshi Agarwal
+- Place: Jiapur,Rajasthan, India
+- Bio: Bachelor in Computer Science and Engineering
+- GitHub: [Akshi Agarwal] (https://github.com/akshi-ag)
+
+
 
