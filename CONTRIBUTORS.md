@@ -141,3 +141,8 @@
 - GitHub: [Anish Kumar Sinha](https://github.com/SinhaAnishKumar)
 
 
+#### Name: Christy Thomas
+- Place: Pathanamthitta, Kerala, India
+- Bio: Who are you?
+- GitHub: [Christy538](https://github.com/Christy538)
+
