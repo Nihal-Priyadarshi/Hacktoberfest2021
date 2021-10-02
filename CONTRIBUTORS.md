@@ -154,6 +154,12 @@
 - GitHub: [Anish Kumar Sinha](https://github.com/SinhaAnishKumar)
 
 
+#### Name: Suman Chandra
+- Place: Patna, Bihar, India
+- Bio: Student at NIT Patna.
+- GitHub: [Suman Chandra](https://github.com/sumannitp)
+
+
 #### Name: Ajay Kumar
 - Place: Haryana, India
 - Bio: Freelance Programmer and Data Analyst
@@ -170,6 +176,7 @@
 - Place: Pathanamthitta, Kerala, India
 - Bio: Currently pursuing BTech in Electronics & Communication
 - GitHub: [Christy538](https://github.com/Christy538)
+
 
 
 
