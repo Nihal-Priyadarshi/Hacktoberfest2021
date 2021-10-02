@@ -22,7 +22,7 @@ Atal Bihari Vajpayee University Bilaspur (C.G.)
 
 ### Profile Link
 
-[Aashish](https://github.com/Ramptl)
+[Ram Patel](https://github.com/Ramptl)
 
 ### Email ID
 
