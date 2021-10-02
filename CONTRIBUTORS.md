@@ -183,3 +183,9 @@
 - Bio: Bachelor of Arts Student
 - GitHub: [Ram Patel](https://github.com/Ramptl)
 
+
+
+#### Name: Gagan Saha
+- Place: Saria, Chhattishgarh, India
+- Bio: Bachelor of Mathematics Student
+- GitHub: [Gagan Saha](https://github.com/sahagagan05)
