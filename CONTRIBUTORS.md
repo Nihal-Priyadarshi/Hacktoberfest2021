@@ -140,4 +140,9 @@
 - Bio: Student at LNMI Patna.
 - GitHub: [Anish Kumar Sinha](https://github.com/SinhaAnishKumar)
 
+#### Name: Ajay Kumar
+- Place: Haryana, India
+- Bio: Freelance Programmer and Data Analyst
+- GitHub: [Ajay Kumar](https://github.com/Join2AJ)
+
 
