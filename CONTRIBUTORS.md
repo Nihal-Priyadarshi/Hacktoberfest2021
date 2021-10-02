@@ -207,4 +207,9 @@
 - Bio: Bachelor of Commerce Student
 - GitHub: [Sukanti Patel](https://github.com/sukantipatel)
 
+#### Name: Krishna Kishore
+- Place: Thane, Maharashtra, India
+- Bio: B.Tech. Computer Science and Engineering Student
+- GitHub: [Krishna Kishore](https://github.com/madathingalkrishna)
+
 
