@@ -202,4 +202,11 @@
 - GitHub: [Sukanti Patel](https://github.com/sukantipatel)
 
 
+#### Name: Hafitz Setya
+- Place: Kediri, Indonesia
+- Bio: Learning
+- GitHub: [breakdowns](https://github.com/breakdowns)
+
+
+
 
