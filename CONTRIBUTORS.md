@@ -141,3 +141,9 @@
 - GitHub: [Anish Kumar Sinha](https://github.com/SinhaAnishKumar)
 
 
+
+#### Name: Devnarayan Patel
+
+- Place: Raigarh, Chhattishgarh, India
+- Bio: B.Sc. Maths Student.
+- GitHub: [Devnarayan Patel](https://github.com/devnarayanp02)
