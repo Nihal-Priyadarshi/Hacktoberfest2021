@@ -4,17 +4,20 @@
 - Bio: I'm a student.
 - GitHub: [Nihal Priyadarshi](https://github.com/Nihal-Priyadarshi)
 
+
 #### Name: Jayant Goel
 
 - Place: Ghaziabad, UP, India
 - Bio: You Know Who I Am.
 - GitHub: [Jayant Goel](https://github.com/JayantGoel001)
 
+
 #### Name: Arif Cahya Prananda
 
 - Place: Pati, Java, Indonesia
 - Bio: Bachelor of Informatics Engineering from Dian Nuswantoro University.
 - GitHub: [Arif Cahya Prananda](https://github.com/boscahya)
+
 
 #### Name: Ankur Nagila
 
@@ -90,6 +93,7 @@
 - Bio: Student.
 - GitHub: [Vishal J](https://github.com/varhacks)
 
+
 #### Name: Aman Dutt
 - Place: Patna, Bihar, India
 - Bio: Noob Coder.
@@ -115,9 +119,28 @@
 - GitHub: [tb-rules10](https://github.com/tb-rules10)
 
 
+#### Name: Tejsingh Dhaosriya
+
+- Place: Indore, Madhya Pradesh, India
+- Bio: I'm a Developer.
+- GitHub: [Tejsingh Dhaosriya](https://github.com/TejsinghDhaosriya)
+
+
+#### Name: Frosty Thunderer
+
+- Place: The Earth.
+- Bio: I'm a Developer.
+- GitHub: [Frosty Thunderer](https://github.com/Frosty-Thunderer)
+
+
 #### Name: Sriram S
 
 - Place: India
 - Bio: CS undergrad
 - GitHub: [suburban-daredevil](https://github.com/suburban-daredevil)
+
+
+
+
+
 
