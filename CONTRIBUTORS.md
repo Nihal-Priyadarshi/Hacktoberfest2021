@@ -226,4 +226,10 @@
 - Bio:  Computer Science Engineering.
 - GitHub: [Anshu-1101](https://github.com/Anshu-1101)
 
+#### Name: ABIJIT CHETTRI
+- Place: SIKKIM, India
+- Bio: CSE student.
+- GitHub: [Sidhanth_chettri22](https://github.com/Abijitchettri99)
+
+
 
