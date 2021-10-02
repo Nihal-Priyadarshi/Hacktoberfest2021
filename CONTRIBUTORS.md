@@ -141,3 +141,8 @@
 - GitHub: [Anish Kumar Sinha](https://github.com/SinhaAnishKumar)
 
 
+#### Name: Madhan M
+
+- Place: Bengaluru, India
+- Bio: CSE undergrad.
+- GitHub: [Madhan M](https://github.com/Capt-Madhan)
