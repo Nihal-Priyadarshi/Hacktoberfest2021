@@ -244,5 +244,8 @@
 - Bio: Bachelor in Computer Science and Engineering
 - GitHub: [mauryahimanshu] (https://github.com/mauryahimanshu)
 
-
+#### Name: William Kourafas
+- Place: Massachusetts, United States
+- Bio: Writing in C++, developing games in UE4
+- GitHub: [AlternateWalls](https://github.com/AlternateWalls)
 
