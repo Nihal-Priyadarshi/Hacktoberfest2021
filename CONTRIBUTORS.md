@@ -121,3 +121,9 @@
 - GitHub: [Tejsingh Dhaosriya](https://github.com/TejsinghDhaosriya)
 
 
+#### Name: Aneeka Mari
+
+- Place: Colombo, Sri Lanka
+- Bio: I'm a student
+- GitHub: [AneekaMari](https://github.com/AneekaMari)
+
