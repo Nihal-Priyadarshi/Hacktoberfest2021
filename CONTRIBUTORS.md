@@ -140,7 +140,34 @@
 - GitHub: [suburban-daredevil](https://github.com/suburban-daredevil)
 
 
+#### Name: Subhamay Paul
+
+- Place: Kolkata, India
+- Bio: I'm a Developer.
+- GitHub: [Subho-codegeek](https://github.com/Subho-codegeek)
 
 
+#### Name: Anish Kumar Sinha
 
+- Place: Patna, Bihar, India
+- Bio: Student at LNMI Patna.
+- GitHub: [Anish Kumar Sinha](https://github.com/SinhaAnishKumar)
+
+#### Name: Ajay Kumar
+- Place: Haryana, India
+- Bio: Freelance Programmer and Data Analyst
+- GitHub: [Ajay Kumar](https://github.com/Join2AJ)
+
+
+#### Name: Devnarayan Patel
+
+- Place: Raigarh, Chhattishgarh, India
+- Bio: B.Sc. Maths Student.
+- GitHub: [Devnarayan Patel](https://github.com/devnarayanp02)
+
+
+#### Name: Christy Thomas
+- Place: Pathanamthitta, Kerala, India
+- Bio: Currently pursuing BTech in Electronics & Communication
+- GitHub: [Christy538](https://github.com/Christy538)
 
