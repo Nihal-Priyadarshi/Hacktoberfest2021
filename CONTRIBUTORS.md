@@ -202,4 +202,8 @@
 - GitHub: [Sukanti Patel](https://github.com/sukantipatel)
 
 
+#### Name: Aniruddho Mitra
+- Place: Chickballapur,Karnataka,India
+- Bio: B.E. in Computer Science Engineering Student
+- GitHub: [aniruddho-mitra](https://github.com/aniruddho-mitra/)
 
