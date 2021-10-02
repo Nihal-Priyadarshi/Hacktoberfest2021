@@ -4,6 +4,12 @@
 - GitHub: [Nihal Priyadarshi](https://github.com/Nihal-Priyadarshi)
 
 
+#### Name: Atul Sinha
+- Place: Ranchi, Jharkhand, India
+- Bio: I'm a student.
+- GitHub: [Atul Sinha](https://github.com/Atulsinha20)
+
+
 #### Name: Jayant Goel
 - Place: Ghaziabad, UP, India
 - Bio: You Know Who I Am.
