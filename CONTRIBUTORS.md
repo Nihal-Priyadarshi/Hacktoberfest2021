@@ -4,6 +4,12 @@
 - GitHub: [Nihal Priyadarshi](https://github.com/Nihal-Priyadarshi)
 
 
+#### Name: Ritesh Kumar
+- Place: Patna ,Bihar, India
+- Bio: I'm a student.
+- GitHub: [Ritesh](https://github.com/Slowgeek)
+
+
 #### Name: Atul Sinha
 - Place: Ranchi, Jharkhand, India
 - Bio: I'm a student.
