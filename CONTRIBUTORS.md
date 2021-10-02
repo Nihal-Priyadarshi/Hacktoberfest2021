@@ -133,6 +133,13 @@
 - GitHub: [Frosty Thunderer](https://github.com/Frosty-Thunderer)
 
 
+#### Name: Sriram S
+
+- Place: India
+- Bio: CS undergrad
+- GitHub: [suburban-daredevil](https://github.com/suburban-daredevil)
+
+
 #### Name: Subhamay Paul
 
 - Place: Kolkata, India
