@@ -221,3 +221,9 @@
 - GitHub: [Dev Patel](https://github.com/devnpatel)
 
 
+#### Name: Anshu Sharma
+- Place:  Jaipur , Rajasthan
+- Bio:  Computer Science Engineering.
+- GitHub: [Anshu-1101](https://github.com/Anshu-1101)
+
+
