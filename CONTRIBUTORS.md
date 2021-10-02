@@ -141,3 +141,9 @@
 - GitHub: [Anish Kumar Sinha](https://github.com/SinhaAnishKumar)
 
 
+
+#### Name: Suman Chandra
+
+- Place: Patna, Bihar, India
+- Bio: Student at NIT Patna.
+- GitHub: [Suman Chandra](https://github.com/sumannitp)
