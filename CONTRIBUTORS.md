@@ -112,6 +112,12 @@
 - GitHub: [Yuvraj Chaudhry](https://github.com/yuvrajchaudhry)
 
 
+#### Name: Yash Jain
+- Place: Varanasi, Uttar Pradesh, India
+- Bio: Student, Marking my presence in the open source world. 
+- GitHub: [Yash Jain](https://github.com/yashjain-99)
+
+
 #### Name: Aashish
 - Place: Punjab, India
 - Bio: Currently pursuing Bachelor's in Computer Science & Engineering
@@ -313,6 +319,7 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Place: Durgapur, West Bengal
 - Bio: B. Tech. Compter Science
 - GitHub: [Abhishek Prasad](https://github.com/abhishekprasad2384)
+
 
 
 
