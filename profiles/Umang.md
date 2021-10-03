@@ -2,21 +2,16 @@
 
 ### Location
 
-
 Ghaziabad/India
 
 ### Interests
 
-Web Development
+- Web Development
 
 ### Profile Link
 
-[Umang Agarwal](https://github.com/umang345)
+- [Umang Agarwal](https://github.com/umang345)
 
 ### Email ID
 
-umangagarwal345@gmail.com
-
-
-
-
+- umangagarwal345@gmail.com
