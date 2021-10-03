@@ -1,5 +1,4 @@
-# Your Name
-  Tiyasha Samanta
+# Tiyasha Samanta
 
 ### Location
 
@@ -11,14 +10,14 @@ SRM Institute of Science and Technology
 
 ### Interests
 
--Hackerrank
--Team Project
--Drawing
--Cooking
+- Hackerrank
+- Team Project
+- Drawing
+- Cooking
 
 ### Development
 
-- Parcel Application
+- Parcel Application (Beginner)
 
 ### Projects
 
