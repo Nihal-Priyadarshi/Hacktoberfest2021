@@ -214,7 +214,6 @@
 - GitHub: [Gagan Saha](https://github.com/sahagagan05)
 
 
-
 #### Name: Sukanti Patel
 - Place: Raigarh, Chhattishgarh, India
 - Bio: Bachelor of Commerce Student
@@ -234,8 +233,8 @@
 
 
 #### Name: Anshu Sharma
-- Place:  Jaipur , Rajasthan
-- Bio:  Computer Science Engineering.
+- Place: Jaipur , Rajasthan
+- Bio: Computer Science Engineering.
 - GitHub: [Anshu-1101](https://github.com/Anshu-1101)
 
 
@@ -251,4 +250,7 @@
 - GitHub: [mauryahimanshu] (https://github.com/mauryahimanshu)
 
 
-
+#### Name: Mayank Bhatt
+- Place: Pantnagar, uttarakhand, India
+- Bio: Mca student at College of technology, Pantnagar
+- GitHub: [mayankbhatt07141] (https://github.com/mayankbhatt07141)
