@@ -250,6 +250,12 @@
 - GitHub: [mauryahimanshu] (https://github.com/mauryahimanshu)
 
 
+#### Name: Spardha Varshney
+- Place: Bareilly, Uttar Pradesh , India
+- Bio: I have done my B.Tech in Computer Science Engineering from Dr. APJ Abdul Kalam Technical University this year and currently I am designated for the System Engineer role in Infosys.
+- GitHub: [Spardha-hash](https://github.com/Spardha-hash)
+
+
 #### Name: William Kourafas
 - Place: Massachusetts, United States
 - Bio: Writing in C++, developing games in UE4
