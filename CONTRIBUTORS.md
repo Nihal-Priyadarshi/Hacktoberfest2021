@@ -226,4 +226,7 @@
 - Bio:  Computer Science Engineering.
 - GitHub: [Anshu-1101](https://github.com/Anshu-1101)
 
-
+#### Name: Tanya Bhardwaj
+- Place: Delhi, New Delhi, India
+- Bio: Computer Science Engineering
+- GitHub: [tanya-0708](https://github.com/tanya-0708)
