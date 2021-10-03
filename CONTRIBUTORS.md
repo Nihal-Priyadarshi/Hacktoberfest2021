@@ -219,6 +219,11 @@
 - Bio: BTech Computer Science
 - GitHub: [Anisha Agarwal](https://github.com/anisha16)
 
+#### Name: Umang Agarwal
+- Place: Ghaziabad, India
+- Bio: Computer Engineering Student
+- GitHub: [Umang Agarwal](https://github.com/umang345)
+
 
 #### Name: Gagan Saha
 - Place: Saria, Chhattishgarh, India
