@@ -120,3 +120,8 @@ Name the file `Hello_World_yourusername.xx`. e.g., `Hello_World_Nihal-Priyadarsh
 Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial. 
 
 Here is my `hello_world` example: [hello_world_Nihal-Priyadatshi.py](https://github.com/Nihal-Priyadarshi/Hacktoberfest2021/blob/master/scripts/Hello_World_Nihal-Priyadarshi.py)
+
+# :handshake: Our Contributors
+<a href="https://github.com/Nihal-Priyadarshi/Hacktoberfest2021/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Nihal-Priyadarshi/Hacktoberfest2021" />
+</a>
