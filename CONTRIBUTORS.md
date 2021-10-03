@@ -297,6 +297,12 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - GitHub: [mayankbhatt07141] (https://github.com/mayankbhatt07141)
 
 
+#### Name: Abijit chettri
+- Place: Sikkim, India
+- Bio: CSE Student.
+- GitHub: [Sidhanth_chettri22](https://github.com/Abijitchettri99)
+
+
 #### Name: Akshi Agarwal
 - Place: Jiapur,Rajasthan, India
 - Bio: Bachelor in Computer Science and Engineering
@@ -319,7 +325,6 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Place: Durgapur, West Bengal
 - Bio: B. Tech. Compter Science
 - GitHub: [Abhishek Prasad](https://github.com/abhishekprasad2384)
-
 
 
 
