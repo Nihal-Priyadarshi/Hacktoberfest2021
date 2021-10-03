@@ -282,4 +282,7 @@
 
 
 
-
+#### Name: Shubhangi Dwivedi
+- Place: Ghazibad, Uttar Pradesh
+- Bio: B. Tech. Compter Science
+- GitHub: [Shubhangi Dwivedi](https://github.com/shubhangi-dwivedi)
