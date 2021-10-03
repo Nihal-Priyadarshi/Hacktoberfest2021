@@ -354,3 +354,7 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: Android Developer, Golang Developer
 - GitHub: [Krirati Kani](https://github.com/Krirati)
 
+#### Name: Ananya Gupta
+- Place: New Delhi, India
+- Bio: Flutter Developer, Data Engineer
+- GitHub: [Ananya](https://github.com/ananya0504)
