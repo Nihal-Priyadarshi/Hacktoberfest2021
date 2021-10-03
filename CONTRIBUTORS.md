@@ -4,6 +4,18 @@
 - GitHub: [Nihal Priyadarshi](https://github.com/Nihal-Priyadarshi)
 
 
+#### Name: Ritesh Kumar
+- Place: Patna ,Bihar, India
+- Bio: I'm a student.
+- GitHub: [Ritesh](https://github.com/Slowgeek)
+
+
+#### Name: Atul Sinha
+- Place: Ranchi, Jharkhand, India
+- Bio: I'm a student.
+- GitHub: [Atul Sinha](https://github.com/Atulsinha20)
+
+
 #### Name: Jayant Goel
 - Place: Ghaziabad, UP, India
 - Bio: You Know Who I Am.
@@ -118,6 +130,12 @@
 - GitHub: [Tejsingh Dhaosriya](https://github.com/TejsinghDhaosriya)
 
 
+#### Name: Aneeka Mari
+- Place: Colombo, Sri Lanka
+- Bio: I'm a student
+- GitHub: [AneekaMari](https://github.com/AneekaMari)
+
+
 #### Name: Dev raj patel
 - Place: Indore, Madhya Pradesh, India
 - Bio: I'm a Student.
@@ -152,6 +170,12 @@
 - Place: Patna, Bihar, India
 - Bio: Student at LNMI Patna.
 - GitHub: [Anish Kumar Sinha](https://github.com/SinhaAnishKumar)
+
+
+#### Name: Madhan M
+- Place: Bengaluru, India
+- Bio: CSE undergrad.
+- GitHub: [Madhan M](https://github.com/Capt-Madhan)
 
 
 #### Name: Suman Chandra
@@ -201,8 +225,83 @@
 - Bio: Bachelor of Commerce Student
 - GitHub: [Sukanti Patel](https://github.com/sukantipatel)
 
+
 #### Name: Jyoti pandey
 - Place: Jhansi, UP, India
 - Bio: b.tech cse student
 - GitHub: [JYOTIP31]
+
+
+#### Name: Aniruddho Mitra
+- Place: Chickballapur,Karnataka,India
+- Bio: B.E. in Computer Science Engineering Student
+- GitHub: [aniruddho-mitra](https://github.com/aniruddho-mitra/)
+
+
+#### Name: Dev Patel
+- Place: Bilaspur, Chhattisgarh, India
+- Bio: Bachelor of Science Student
+- GitHub: [Dev Patel](https://github.com/devnpatel)
+
+
+#### Name: Anshu Sharma
+- Place: Jaipur , Rajasthan
+- Bio: Computer Science Engineering.
+- GitHub: [Anshu-1101](https://github.com/Anshu-1101)
+
+
+#### Name: Kaveesha Gallage
+- Place: Ambalangoda, Galle, Sri Lanka
+- Bio: Undergraduate, University of Moratuwa
+- GitHub: [Kaveesha Gallage](https://github.com/KaveeshaGallage)
+
+
+#### Name: Himanshu Maurya
+- Place: Varanasi, Uttar Pradesh, India
+- Bio: Bachelor in Computer Science and Engineering
+- GitHub: [mauryahimanshu] (https://github.com/mauryahimanshu)
+
+#### Name: Ankit Gupta
+- Place: New Delhi, Delhi, India
+- Bio: I'm a Developer and CSE 2018 Grad.
+- GitHub: [ankit-95](https://github.com/ankit-95)
+
+
+#### Name: Spardha Varshney
+- Place: Bareilly, Uttar Pradesh , India
+- Bio: I have done my B.Tech in Computer Science Engineering from Dr. APJ Abdul Kalam Technical University this year and currently I am designated for the System Engineer role in Infosys.
+- GitHub: [Spardha-hash](https://github.com/Spardha-hash)
+
+
+#### Name: William Kourafas
+- Place: Massachusetts, United States
+- Bio: Writing in C++, developing games in UE4
+- GitHub: [AlternateWalls](https://github.com/AlternateWalls)
+
+
+#### Name: Mayank Bhatt
+- Place: Pantnagar, uttarakhand, India
+- Bio: Mca student at College of technology, Pantnagar
+- GitHub: [mayankbhatt07141] (https://github.com/mayankbhatt07141)
+
+
+#### Name: Akshi Agarwal
+- Place: Jiapur,Rajasthan, India
+- Bio: Bachelor in Computer Science and Engineering
+- GitHub: [Akshi Agarwal] (https://github.com/akshi-ag)
+
+
+#### Name: Tanay Dwivedi
+- Place: Kanpur, Uttar Pradesh, India
+- Academics: B.Tech in Computer Science and Engineering
+- GitHub: [Tanay-Dwivedi] (https://github.com/Tanay-Dwivedi)
+
+
+#### Name: Shubhangi Dwivedi
+- Place: Ghazibad, Uttar Pradesh
+- Bio: B. Tech. Compter Science
+- GitHub: [Shubhangi Dwivedi](https://github.com/shubhangi-dwivedi)
+
+
+
 
