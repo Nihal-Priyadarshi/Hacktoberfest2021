@@ -303,5 +303,11 @@
 - GitHub: [Shubhangi Dwivedi](https://github.com/shubhangi-dwivedi)
 
 
+#### Name:  Abhishek Prasad
+- Place: Durgapur, West Bengal
+- Bio: B. Tech. Compter Science
+- GitHub: [Abhishek Prasad](https://github.com/abhishekprasad2384)
+
+
 
 
