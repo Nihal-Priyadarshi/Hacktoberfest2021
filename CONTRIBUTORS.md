@@ -313,4 +313,7 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: Deep Learning and React Js Enthusiast
 - GitHub: [Pritha_Tiwari](https://https://github.com/priithaa)
 
-
+#### Name: Manvi Singhal
+-Place: Muzaffarnagar, Uttar Pradesh, India
+-Bio: Frontend Web Developer and Competitive Programmer
+-GitHub: [Manvi Singhal](https://github.com/manvii3110)
