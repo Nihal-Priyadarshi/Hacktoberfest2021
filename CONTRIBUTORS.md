@@ -344,3 +344,9 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Place: São Paulo, Brazil
 - Bio: Bachelor in Computer Engineering
 - GitHub: [MaiaraMendes](https://github.com/maiaramendes)
+
+#### Name: Krirati Kani
+- Place: Ubon Ratchathani, Thailand
+- Bio: Android Developer, Golang Developer
+- GitHub: [Krirati Kani](https://github.com/Krirati)
+
