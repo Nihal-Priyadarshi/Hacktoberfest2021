@@ -1,0 +1,45 @@
+import java.util.*;
+public class ISBN {
+     static int count_digit(int n)
+    {
+        int c=0;
+        while(n!=0)
+        {
+            c++;
+            n=n/10;
+        }
+        return c;
+    }
+      static boolean check_isbn(long num, int c)
+    {
+        int sum = 0;
+        int i,rem;
+        if(c!=10)
+        {
+            return false;
+        }
+        for(i=1;i<=c;i++)
+        {
+            rem = (int) (num%10);
+            sum += rem*i;
+            num/=10;
+        }
+        return sum % 11 == 0;
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter number to check ISBN or not");
+        long isbn_num = sc.nextLong();
+        int count = count_digit((int) isbn_num);
+        boolean result = check_isbn(isbn_num,count);
+        if(result)
+        {
+            System.out.println("Number "+isbn_num+" is a legal ISBN Number");
+        }
+        else
+        {
+            System.out.println("Number "+isbn_num+" is not a legal ISBN Number");
+        }
+    }
+}
