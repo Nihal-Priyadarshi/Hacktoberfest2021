@@ -226,6 +226,12 @@
 - GitHub: [Sukanti Patel](https://github.com/sukantipatel)
 
 
+#### Name: Jyoti pandey
+- Place: Jhansi, UP, India
+- Bio: b.tech cse student
+- GitHub: [JYOTIP31]
+
+
 #### Name: Aniruddho Mitra
 - Place: Chickballapur,Karnataka,India
 - Bio: B.E. in Computer Science Engineering Student
@@ -279,8 +285,6 @@
 - GitHub: [mayankbhatt07141] (https://github.com/mayankbhatt07141)
 
 
-
-
 #### Name: Akshi Agarwal
 - Place: Jiapur,Rajasthan, India
 - Bio: Bachelor in Computer Science and Engineering
@@ -293,8 +297,11 @@
 - GitHub: [Tanay-Dwivedi] (https://github.com/Tanay-Dwivedi)
 
 
-
 #### Name: Shubhangi Dwivedi
 - Place: Ghazibad, Uttar Pradesh
 - Bio: B. Tech. Compter Science
 - GitHub: [Shubhangi Dwivedi](https://github.com/shubhangi-dwivedi)
+
+
+
+
