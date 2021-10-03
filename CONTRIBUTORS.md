@@ -250,5 +250,10 @@
 - Bio: Bachelor in Computer Science and Engineering
 - GitHub: [mauryahimanshu] (https://github.com/mauryahimanshu)
 
+#### Name: Maiara Mendes
+- Place: São Paulo, Brazil
+- Bio: Bachelor in Computer Engineering
+- GitHub: [MaiaraMendes](https://github.com/maiaramendes)
+
 
 
