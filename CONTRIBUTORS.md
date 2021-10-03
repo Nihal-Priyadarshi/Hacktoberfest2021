@@ -303,6 +303,11 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: Flutter Developer, Data Engineer
 - GitHub: [Ananya](https://github.com/ananya0504)
 
+#### Name: Devanshu Vashishtha
+- Place: Mahendragarh, Haryana, India
+- Bio: Full Stack MERN Developer, Software Engineer (DevOps) at Amdocs India.
+- GitHub: [Devanshu Vashishtha](https://github.com/web-codegrammer)
+
 #### Name: Pritha Tiwari
 - Place: New Delhi, India
 - Bio: Deep Learning and React Js Enthusiast
