@@ -254,3 +254,11 @@
 - Place: Pantnagar, uttarakhand, India
 - Bio: Mca student at College of technology, Pantnagar
 - GitHub: [mayankbhatt07141] (https://github.com/mayankbhatt07141)
+
+
+#### Name: Rashid Ansari
+- Place: Kalaiya, Bara, Nepal
+- Bio: Bachelor in Computer science and Engineering
+- GitHub: [Rashid Ansari](https://github.com/Rashid602)
+
+
