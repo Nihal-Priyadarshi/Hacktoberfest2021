@@ -332,6 +332,7 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - GitHub: [Abhishek Prasad](https://github.com/abhishekprasad2384)
 
 
+<<<<<<< master
 
 #### Name: Ankit Gupta
 - Place: New Delhi, Delhi, India
@@ -385,6 +386,8 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Place: Durgapur, West Bengal
 - Bio: B. Tech. Compter Science
 - GitHub: [Abhishek Prasad](https://github.com/abhishekprasad2384)
+  =======
+>>>>>>> master
 
 
 #### Name: Maiara Mendes
