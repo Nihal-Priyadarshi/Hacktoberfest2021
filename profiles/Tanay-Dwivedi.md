@@ -1,19 +1,32 @@
-Tanay Dwivedi
+# Tanay Dwivedi
 
-Place
-Kanpur / Uttar Pradesh / India
+### Location
 
-Academics
+ Kanpur / Uttar Pradesh / India
+
+### Academics
+
 Vellore Institute of Technology
 
-Interests
-App Development
-Web Development
-Latest Technologies
-Competitive Programming
+### Interests
 
-GitHub Profile
+- App Development
+- Web Development
+- Latest Technologies
+- Competitive Programming
+
+### Development
+
+- 
+
+### Projects
+
+-
+
+### Profile Link
+
 https://github.com/Tanay-Dwivedi
 
-email
-tanaydwivedi2002@gmail.com
+### Email ID
+
+-  tanaydwivedi2002@gmail.com
