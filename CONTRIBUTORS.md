@@ -233,10 +233,12 @@
 - GitHub: [Anshu-1101](https://github.com/Anshu-1101)
 
 
-#### Name:Vanshika goel
--Place:UP.
--Bio:Btech in cse.
-Github:https://github.com/Vanshikagoel0012
+#### Name: Vanshika goel
+-Place: UP, India
+-Bio: Btech in cse.
+Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
+
+
 #### Name: Kaveesha Gallage
 - Place: Ambalangoda, Galle, Sri Lanka
 - Bio: Undergraduate, University of Moratuwa
