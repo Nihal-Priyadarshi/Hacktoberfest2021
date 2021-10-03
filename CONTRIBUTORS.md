@@ -130,6 +130,12 @@
 - GitHub: [Tejsingh Dhaosriya](https://github.com/TejsinghDhaosriya)
 
 
+#### Name: Aneeka Mari
+- Place: Colombo, Sri Lanka
+- Bio: I'm a student
+- GitHub: [AneekaMari](https://github.com/AneekaMari)
+
+
 #### Name: Dev raj patel
 - Place: Indore, Madhya Pradesh, India
 - Bio: I'm a Student.
