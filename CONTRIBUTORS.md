@@ -331,6 +331,10 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: B. Tech. Compter Science
 - GitHub: [Abhishek Prasad](https://github.com/abhishekprasad2384)
 
+#### Name: Tiyasha Samanta
+- Place: Burdwan, West Bengal, India
+- Bio: B.Tech Computer Science Engineering 
+- GitHub: [ts4475](https://github.com/ts4475)
 
 
 
