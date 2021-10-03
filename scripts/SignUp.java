@@ -12,6 +12,10 @@ public class SignUp {
     static String name, email, password;
     static User user = new User();
 
+    public static void main(String[] args) throws InterruptedException {
+        SignUp.createAccount();
+    }
+
     private static void createAccount() throws InterruptedException {
         System.out.println("Hello, welcome! ");
         System.out.println("Let's create your account? :)\n\n");
@@ -142,9 +146,5 @@ public class SignUp {
             }
             return true;
         }
-    }
-
-    public static void main(String[] args) throws InterruptedException {
-        SignUp.createAccount();
     }
 }
