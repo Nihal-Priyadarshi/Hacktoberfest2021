@@ -23,7 +23,7 @@ Amity University Noida
 
 ### Profile Link
 
-[Keinisha Joshi](https://github.com/keinisha)
+- [Keinisha Joshi](https://github.com/keinisha)
 
 ### Email ID
 
