@@ -258,6 +258,11 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: Mca student at College of technology, Pantnagar
 - GitHub: [mayankbhatt07141] (https://github.com/mayankbhatt07141)
 
+#### Name: Rashid Ansari
+- Place: Kalaiya, Bara, Nepal
+- Bio: Bachelor in Computer science and Engineering
+- GitHub: [Rashid Ansari](https://github.com/Rashid602)
+
 #### Name: Abijit chettri
 - Place: Sikkim, India
 - Bio: CSE Student.
@@ -312,5 +317,6 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Place: New Delhi, India
 - Bio: Deep Learning and React Js Enthusiast
 - GitHub: [Pritha_Tiwari](https://https://github.com/priithaa)
+
 
 
