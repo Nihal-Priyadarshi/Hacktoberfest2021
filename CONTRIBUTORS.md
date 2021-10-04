@@ -412,7 +412,7 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 #### Name: Mayukh Chatterjee
 - Place: Kolkata, West Bengal , India
 - Bio: Computer Science Enthusiast, Currently working on Quantum Computations
-- GitHub: [Gaurav Maheshwari](https://github.com/mayukh00)
+- GitHub: [Mayukh Chatterjee](https://github.com/mayukh00)
 
 
 
