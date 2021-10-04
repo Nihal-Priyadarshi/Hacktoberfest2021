@@ -313,4 +313,9 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: Deep Learning and React Js Enthusiast
 - GitHub: [Pritha_Tiwari](https://https://github.com/priithaa)
 
+#### Name: Soumyoneel Dey
+- Place: Haldia, West Bengal, India
+- Bio: B.Tech Computer Science Engineering
+- GitHub: [sd78912](https://github.com/sd78912)
+
 
