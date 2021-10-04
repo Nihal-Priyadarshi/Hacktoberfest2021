@@ -88,6 +88,11 @@
 - Bio: Student.
 - GitHub: [Vishal J](https://github.com/varhacks)
 
+#### Name: Keinisha Joshi
+- Place: Noida, Uttar Pradesh
+- Bio: CSE Student.
+- GitHub: [Keinisha Joshi](https://github.com/keinisha)
+
 #### Name: Aman Dutt
 - Place: Patna, Bihar, India
 - Bio: Noob Coder.
