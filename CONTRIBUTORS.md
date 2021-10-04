@@ -313,4 +313,7 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: Deep Learning and React Js Enthusiast
 - GitHub: [Pritha_Tiwari](https://https://github.com/priithaa)
 
-
+#### Name: [Shakthi Hettiarachchi](https://github.com/shakthidilshan)
+- Place: Colombo, Sri Lanka
+- Bio: Software Developer (Java, Flutter, Native Android)
+- Github: [Shakthi Hettiarachchi](https://github.com/shakthidilshan)
