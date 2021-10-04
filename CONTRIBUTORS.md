@@ -273,6 +273,11 @@
 - Bio: Computer Science Engineering.
 - GitHub: [Anshu-1101](https://github.com/Anshu-1101)
 
+#### Name: Tanya Bhardwaj
+- Place: Delhi, New Delhi, India
+- Bio: Computer Science Engineering
+- GitHub: [tanya-0708](https://github.com/tanya-0708)
+
 #### Name: Vanshika goel
 
 -Place: UP, India
@@ -403,6 +408,7 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Place: Ajmer, Rajasthan , India
 - Bio: B.Tech Computer Science Engineering, Open Source Enthusiast, DevOps Contributor
 - GitHub: [Gaurav Maheshwari](https://github.com/gaurav24072002)
+
 
 
 
