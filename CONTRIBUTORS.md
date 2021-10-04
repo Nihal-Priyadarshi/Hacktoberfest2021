@@ -409,6 +409,13 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: B.Tech Computer Science Engineering, Open Source Enthusiast, DevOps Contributor
 - GitHub: [Gaurav Maheshwari](https://github.com/gaurav24072002)
 
+#### Name: Mayukh Chatterjee
+- Place: Kolkata, West Bengal , India
+- Bio: Computer Science Enthusiast, Currently working on Quantum Computations
+- GitHub: [Gaurav Maheshwari](https://github.com/mayukh00)
+
+
+
 
 
 
