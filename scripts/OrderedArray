@@ -1,0 +1,65 @@
+class OrderedArray {
+
+    private long[] a; // ref to array a
+    private int nElements; //number of data items
+
+    public OrdArray(int max) {         //Fill the body
+        this.a=new long[max];
+        this.nElements=0;
+    }
+
+    public int size() { // return max size of the array
+        return this.a.length;
+    }
+
+    public int find(long searchKey) {         //Fill the body
+
+        for(int i=0;i<nElements;i++){
+            if(this.a[i]==searchKey){
+                return i;
+            }
+        }
+        return -1;
+    }
+
+    public void insert(long value) { // put element into arrray
+        if(this.nElements==size()){
+            System.out.println("Array is Full.Insertion Terminated.");
+            return;
+        }
+        for(int i=0;i<this.nElements;i++){
+            if(this.a[i]>value){
+                for(int j=this.nElements-1;j>=i;j--){
+                    this.a[j+1]=this.a[j];
+                }
+                this.a[i]=value;
+                this.nElements++;
+                return;
+            }
+        }
+        a[this.nElements]=value;
+        this.nElements++;
+    }
+
+    public boolean delete(long value) {         //Fill the body
+        int index=find(value);
+        if(index==1){
+            System.out.println("Value not found. Deletion Terminated");
+            return false;
+        }else{
+            for(int i=index;i<this.nElements-1;i++){
+                this.a[i]=this.a[i+1];
+            }
+            this.nElements--;
+            return true;
+        }
+    }
+
+    void display() { // display array contents
+        System.out.print("Array -> [ ");
+        for(int i=0;i<nElements;i++){
+            System.out.print(this.a[i]+", ");
+        }
+        System.out.println("\b\b ]");
+    }
+}
