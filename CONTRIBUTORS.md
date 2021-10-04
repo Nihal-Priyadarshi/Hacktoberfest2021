@@ -1,8 +1,8 @@
 #### Name: Siddharth Borman
 
 - Place : Guwahati, Assam, India
-  -Bio : I'm a student.
-  \_ GitHub: [Siddharth Borman](https://github.com/PricelessBread)
+- Bio : I'm a student.
+- GitHub: [Siddharth Borman](https://github.com/PricelessBread)
 
 #### Name: Nihal Priyadarshi
 
@@ -105,6 +105,11 @@
 - Place: Koduru, Andhra Pradesh
 - Bio: Student.
 - GitHub: [Vishal J](https://github.com/varhacks)
+
+#### Name: Keinisha Joshi
+- Place: Noida, Uttar Pradesh
+- Bio: CSE Student.
+- GitHub: [Keinisha Joshi](https://github.com/keinisha)
 
 #### Name: Aman Dutt
 
@@ -310,6 +315,11 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: Mca student at College of technology, Pantnagar
 - GitHub: [mayankbhatt07141] (https://github.com/mayankbhatt07141)
 
+#### Name: Rashid Ansari
+- Place: Kalaiya, Bara, Nepal
+- Bio: Bachelor in Computer science and Engineering
+- GitHub: [Rashid Ansari](https://github.com/Rashid602)
+
 #### Name: Abijit chettri
 
 - Place: Sikkim, India
@@ -363,3 +373,28 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Place: Bilasipara, Assam, India
 - Bio: Btech Computer Science and Engineering
 - GitHub: [Ronak55](https://github.com/Ronak55)
+
+#### Name: Ananya Gupta
+- Place: New Delhi, India
+- Bio: Flutter Developer, Data Engineer
+- GitHub: [Ananya](https://github.com/ananya0504)
+
+#### Name: Devanshu Vashishtha
+- Place: Mahendragarh, Haryana, India
+- Bio: Full Stack MERN Developer, Software Engineer (DevOps) at Amdocs India.
+- GitHub: [Devanshu Vashishtha](https://github.com/web-codegrammer)
+
+#### Name: Pritha Tiwari
+- Place: New Delhi, India
+- Bio: Deep Learning and React Js Enthusiast
+- GitHub: [Pritha_Tiwari](https://https://github.com/priithaa)
+
+#### Name: Gaurav Maheshwari
+- Place: Ajmer, Rajasthan , India
+- Bio: B.Tech Computer Science Engineering, Open Source Enthusiast, DevOps Contributor
+- GitHub: [Gaurav Maheshwari](https://github.com/gaurav24072002)
+
+
+
+
+
