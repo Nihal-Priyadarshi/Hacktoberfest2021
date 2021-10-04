@@ -318,5 +318,12 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: Deep Learning and React Js Enthusiast
 - GitHub: [Pritha_Tiwari](https://https://github.com/priithaa)
 
+#### Name: Gaurav Maheshwari
+- Place: Ajmer, Rajasthan , India
+- Bio: B.Tech Computer Science Engineering, Open Source Enthusiast, DevOps Contributor
+- GitHub: [Gaurav Maheshwari](https://github.com/gaurav24072002)
+
+
+
 
 
