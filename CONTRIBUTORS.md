@@ -389,6 +389,11 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: Deep Learning and React Js Enthusiast
 - GitHub: [Pritha_Tiwari](https://https://github.com/priithaa)
 
+#### Name: Manvi Singhal
+-Place: Muzaffarnagar, Uttar Pradesh, India
+-Bio: Frontend Web Developer and Competitive Programmer
+-GitHub: [Manvi Singhal](https://github.com/manvii3110)
+
 #### Name: Soumyoneel Dey
 - Place: Haldia, West Bengal, India
 - Bio: B.Tech Computer Science Engineering
@@ -398,6 +403,7 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Place: Ajmer, Rajasthan , India
 - Bio: B.Tech Computer Science Engineering, Open Source Enthusiast, DevOps Contributor
 - GitHub: [Gaurav Maheshwari](https://github.com/gaurav24072002)
+
 
 
 
