@@ -410,6 +410,10 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - GitHub: [Gaurav Maheshwari](https://github.com/gaurav24072002)
 
 
+#### Name: Mukesh Shelke
+- Place: Aurangabad, India
+- Bio: B.Tech Computer Science Engineering, Contributor
+- GitHub: [Mukesh](https://github.com/mukesh2309)
 
 
 
