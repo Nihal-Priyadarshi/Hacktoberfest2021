@@ -409,7 +409,10 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: B.Tech Computer Science Engineering, Open Source Enthusiast, DevOps Contributor
 - GitHub: [Gaurav Maheshwari](https://github.com/gaurav24072002)
 
-
+#### Name: Niru Sadani
+- Place: Colombo, Sri Lanka
+- Bio: AI and RPA Enthusiast
+- GitHub: [Niruddya Samarasinghe](https://github.com/nirudi98)
 
 
 
