@@ -16,6 +16,12 @@
 - Bio: I'm a student.
 - GitHub: [Ritesh](https://github.com/Slowgeek)
 
+#### Name: Prince Kumar
+
+- Place : Bihar, Patna, India
+- Bio : I'm a student.
+- GitHub: [Prince Kumar](https://github.com/Prince0786)
+
 #### Name: Atul Sinha
 
 - Place: Ranchi, Jharkhand, India
