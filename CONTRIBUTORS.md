@@ -278,6 +278,12 @@
 - Bio: Computer Science Engineering
 - GitHub: [tanya-0708](https://github.com/tanya-0708)
 
+
+#### Name: Nikola Markovic
+- Place: Zagreb, Croatia
+- Bio: Software Engineering
+- GitHub: [savuckovi](https://github.com/savuckovi)
+
 #### Name: Vanshika goel
 
 -Place: UP, India
