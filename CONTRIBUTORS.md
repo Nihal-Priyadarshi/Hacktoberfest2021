@@ -409,7 +409,10 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: B.Tech Computer Science Engineering, Open Source Enthusiast, DevOps Contributor
 - GitHub: [Gaurav Maheshwari](https://github.com/gaurav24072002)
 
-
+#### Name: Punit Kumar
+- Place: kolkata, West Bengal , India
+- Bio: I am currently pursuing my B.Tech in Computer Science and Engineering at Techno International,New Town
+- GitHub: [Punit Kumar](https://github.com/punit1372)
 
 
 
