@@ -409,6 +409,11 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: B.Tech Computer Science Engineering, Open Source Enthusiast, DevOps Contributor
 - GitHub: [Gaurav Maheshwari](https://github.com/gaurav24072002)
 
+#### Name: Rohit Kumar
+- Place: Delhi NCR, India
+- Bio: Pursing Btech CSE(DATA SCIENCE)
+- Github: [Rkartik9] https://github.com/RKartik9
+
 
 
 
