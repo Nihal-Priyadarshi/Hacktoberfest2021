@@ -410,6 +410,10 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - GitHub: [Gaurav Maheshwari](https://github.com/gaurav24072002)
 
 
+#### Name: Ashutosh Ranjan
+- Place: Patna , Bihar , India
+- Bio: BCA , LN Mishra Patna
+- GitHub: [Ashutosh Ranjan](https://github.com/ashutoshranjan-cmd)
 
 
 
