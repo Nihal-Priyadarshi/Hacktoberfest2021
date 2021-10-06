@@ -409,6 +409,10 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: B.Tech Computer Science Engineering, Open Source Enthusiast, DevOps Contributor
 - GitHub: [Gaurav Maheshwari](https://github.com/gaurav24072002)
 
+#### Name: Garvit Verma
+- Place: Nainital, Uttarakhand , India
+- Bio: B.Tech Computer Science Engineering
+- GitHub: [GarvitV957](https://github.com/GarvitV957)
 
 
 
