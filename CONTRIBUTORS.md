@@ -409,7 +409,13 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: B.Tech Computer Science Engineering, Open Source Enthusiast, DevOps Contributor
 - GitHub: [Gaurav Maheshwari](https://github.com/gaurav24072002)
 
+#### Name: Ujjwal Paul
 
+- Place: Midnapore, West Bengal, India
+
+- Bio: Coding enthusiast.
+
+- GitHub: [ujjwalpaul005](https://github.com/ujjwalpaul005)
 
 
 
