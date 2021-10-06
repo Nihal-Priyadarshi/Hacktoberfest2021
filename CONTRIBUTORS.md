@@ -411,7 +411,10 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 
 
 
-
+#### Name: Ashutosh Ranjan
+- Place: Patna, Bihar , India
+- Bio: BCA student from Ln mishra institute 
+- GitHub: [Ashutosh ranjan](https://github.com/ashutoshranjan-cmd)
 
 
 
