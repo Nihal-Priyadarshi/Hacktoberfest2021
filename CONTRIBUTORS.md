@@ -409,6 +409,11 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: B.Tech Computer Science Engineering, Open Source Enthusiast, DevOps Contributor
 - GitHub: [Gaurav Maheshwari](https://github.com/gaurav24072002)
 
+#### Name: Randika Suridu
+- Place: Kalutara,Western,Sri Lanka
+- Bio: Software Engineering, Undegraduate, Tech Enthusiastic
+- GitHub: [Randika Suridu](https://github.com/Randika97)
+
 
 
 
