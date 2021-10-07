@@ -1,3 +1,9 @@
+#### Name: [Lorika Kalbhor](https://github.com/LorikaKalbhor18)
+- Place: Bhopal(M.P.),India
+- Bio: Student
+- GitHub: [LorikaKalbhor18](https://github.com/LorikaKalbhor18)
+
+
 #### Name: Siddharth Borman
 
 - Place : Guwahati, Assam, India
