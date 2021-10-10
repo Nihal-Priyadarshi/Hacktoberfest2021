@@ -1,4 +1,4 @@
-public class NQueenProblem {
+class NQueenProblem {
     final int N = 4;
  
     
@@ -48,7 +48,7 @@ public class NQueenProblem {
         if (col >= N)
             return true;
  
-        /
+
         for (int i = 0; i < N; i++) {
             /* Check if the queen can be placed on
                board[i][col] */
