@@ -422,6 +422,11 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 
 
 
+#### Name: Prince Kumar Pandey
+
+- Place: Bhubaneshwar , Odisha , INDIA
+- Bio: B.TECH COMPUTER SCIENCE ENGINEERING , DEVELOPER , CODING ENTHUSIAST.
+- GitHub: [PrincePandey](https://github.com/PrincePandey1)
 
 
 
