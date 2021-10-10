@@ -419,8 +419,10 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: B.Tech Computer Science Engineer
 - GitHub: [Astha Maheshwari](https://github.com/astha-06)
 
-
-
+#### Name: Madan
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: Computer Science Student
+- GitHub: [Madanaa](https://github.com/Madanaa)
 
 
 
