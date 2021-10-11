@@ -419,6 +419,11 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: B.Tech Computer Science Engineer
 - GitHub: [Astha Maheshwari](https://github.com/astha-06)
 
+#### Name: Aarzoo
+- Place: Haryana, Ambala,India
+- Bio: B.Tech Computer Science Engineer
+- Github: [Aarzoo Pundir](https://github.com/aarzoopundir)
+
 
 
 
