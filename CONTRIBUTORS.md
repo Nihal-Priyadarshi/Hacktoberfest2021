@@ -419,6 +419,10 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: B.Tech Computer Science Engineer
 - GitHub: [Astha Maheshwari](https://github.com/astha-06)
 
+#### Name: Kanishka Srivastava
+- Place: Jamshedpur, Jharkhand, India
+- Bio: first year B.Tech Computer Science Engineer
+- GitHub: [/Kanishka Srivastava](https://github.com/kanishkasrivastava)
 
 
 
