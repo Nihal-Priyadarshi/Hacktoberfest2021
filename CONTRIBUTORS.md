@@ -419,7 +419,10 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: B.Tech Computer Science Engineer
 - GitHub: [Astha Maheshwari](https://github.com/astha-06)
 
-
+#### Name: Seenivasan
+- Place : Chennai, Tamilnadu, India
+- Bio : Android app developer at Zoho, Chennai
+- GitHub: [Seenu](https://github.com/seenu-2002)
 
 
 
