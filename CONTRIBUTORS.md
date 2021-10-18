@@ -1,3 +1,8 @@
+#### Name: Sagar Sapre
+- Place : Jabalpur, Madhya Pradesh, India
+- Bio : I'm a B.Tech Student.
+- GitHub: [Sagar Sapre](https://github.com/sagarsapre38)
+
 #### Name: Siddharth Borman
 
 - Place : Guwahati, Assam, India
