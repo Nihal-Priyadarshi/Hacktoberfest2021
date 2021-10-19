@@ -423,6 +423,11 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 
 
 
+#### Name: Ashtuosh Ranjan
+- Place: Patna, Bihar , India
+- Bio: BCA student currently pursuing BCA from LN mishra institute of economic development and social changes
+- GitHub: [Ashutosh Ranjan](https://github.com/ashutoshranjan-cmd)
+
 
 
 
