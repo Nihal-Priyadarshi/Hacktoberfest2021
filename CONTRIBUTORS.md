@@ -419,6 +419,10 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: B.Tech Computer Science Engineer
 - GitHub: [Astha Maheshwari](https://github.com/astha-06)
 
+#### Name: Chirani Bhagya
+- Place: Bope,Padukka,Sri Lanka
+- Bio: undergraduate Student
+- GitHub: [PRC Bhagya](https://github.com/PRCBhagya)
 
 
 
