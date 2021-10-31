@@ -17,12 +17,12 @@ This repository is open to all members of the GitHub community. Any member may c
 
 [Hacktoberfest 2021](https://github.com/Nihal-Priyadarshi/Hacktoberfest2021)
 
-## What is Hacktoberfest?
+## What is Hacktoberfest ?
 A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
 [Hacktoberfest Offical Website](https://hacktoberfest.digitalocean.com/)
 
-## How to contribute to this project
+## How to contribute to this project via below points
 Here are 3 quick and painless ways to contribute to this project:
 
 * Add your name to the `CONTRIBUTORS.md` file
@@ -85,7 +85,7 @@ Your School
 
 ### Interests
 
-- Some Things You Like
+- Some Things You Like which you can dedicate.
 
 ### Development
 
