@@ -425,7 +425,10 @@ Github: [Vanshika goel](https://github.com/Vanshikagoel0012)
 - Bio: B.Tech Computer Science Engineer
 - GitHub: [Astha Maheshwari](https://github.com/astha-06)
 
-
+#### Name: Anuj Verma
+- Place: Banglore, Karnataka, India
+- Bio: Application Engineer
+- GitHub: [Anuj Verma](https://github.com/Anuj123verma)
 
 
 
